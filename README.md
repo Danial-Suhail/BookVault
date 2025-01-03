@@ -2,11 +2,7 @@
 ## Library Application
 A C# Book Database Management Application to store, checkout, return, and rate books for your pleasure.
 ## Demo
-
-
-https://github.com/user-attachments/assets/bff888ea-d619-43e9-b463-f2ae01fb918a
-
-
+https://github.com/user-attachments/assets/61c4c892-6e51-4e6b-a2ef-311fda32992e
  ## Functionality
  #### This program will simulate a library check-out and return system. This means the program will account for:
  * A log-in section where the user can enter their login details for validation or create a new account.
